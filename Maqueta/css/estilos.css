@@ -306,6 +306,10 @@ form input[type="text"] {
     max-width: 60%;
   }
 
+  #totalPago {
+    font-size: 1.4rem;
+    font-weight: 700;
+  }
 
   #main-footer {
     padding: 5px 10px;
